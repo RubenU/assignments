@@ -55,11 +55,29 @@ I am a enthusiastic person and I'm always looking for new challenges. I have dif
 * September 2013 - August 2015
 	* **Promotioncommittee T.S.K.V. Spartacus**
 
-## Languages and Skills
+## Languages, Skills & Interests
 -------
-* **Dutch** Native Speaker
+* Languages
+	* **Dutch** Native Speaker
 
-* **English** Fluent, *Language Proficiency Certificate (Oxford Placement Test) C1+/Advanced (2014)*
+	* **English** Fluent, *Language Proficiency Certificate: C1 (2014)*
+* Skills
+	* **STATA** Good
+	* **Python** Average
+	* **Windows/Office** Excellent
 
-* **German** Good
+* Interests
+	* **Making music**
+	* **Sports**
+		* **Squash**
+		* **Running**
+		* **Fitness**
+		* **Swimming**
+	* **Traveling**
+	* **Hiking**
+
+
+
+
+
 
