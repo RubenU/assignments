@@ -58,13 +58,16 @@ I am a enthusiastic person and I'm always looking for new challenges. I have dif
 ## Languages, Skills & Interests
 -------
 * Languages
+
 	* **Dutch** Native Speaker
 
 	* **English** Fluent, *Language Proficiency Certificate: C1 (2014)*
-* Skills
+
+* Skill
 	* **STATA** Good
 	* **Python** Average
 	* **Windows/Office** Excellent
+
 
 * Interests
 	* **Making music**
