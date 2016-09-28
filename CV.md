@@ -1,6 +1,6 @@
 Curriculum Vitae 
 =======
-
+![Picture](https://github.com/RubenU/assignments/blob/master/2.jpg)
 ## Personal Information
 |||
 | ------ | ----------- |
