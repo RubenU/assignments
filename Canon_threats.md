@@ -32,6 +32,9 @@ Threats in banking
 
 1. Italien banks in millions of debt
 
+1. It is impossible for banks to make money while the ECB holds the interest rate at 0%
+
+
 
 
 
@@ -41,4 +44,5 @@ Threats in banking
 * https://www.zerofox.com/blog/pwc-reveals-top-bank-threats-facing-the-financial-industry/
 * http://www.cnbc.com/2016/09/28/deutsche-bank-crisis-explained.html
 * http://wolfstreet.com/2016/09/28/eu-banking-mayhem-one-bank-at-a-time-then-all-at-once/
+* https://www.ecb.europa.eu/press/key/date/2016/html/sp160707_1.en.html
 * 
