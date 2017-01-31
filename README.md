@@ -1,3 +1,3 @@
 # assignments
 
-The link to the python final assignment: https://github.com/RubenU/assignments/blob/master/AEA%20project.ipynb
+The <a href="https://github.com/RubenU/assignments/blob/master/AEA%20project.ipynb" target="_blank">link</a> to the python final assignment.
